@@ -48,7 +48,7 @@ console.clear();
 
 
 crearArchivo(yargs.base,  yargs.fin, yargs.listar)
-    .then(nombreArchivo => console.log(nombreArchivo.rainbow, 'creado'))
+    .then(nombreArchivo => console.log(nombreArchivo.rainbow, 'creadooo'))
     .catch(err => console.log(err));
 
 
